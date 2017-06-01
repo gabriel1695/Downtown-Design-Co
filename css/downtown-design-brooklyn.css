@@ -1,0 +1,438 @@
+.version.downtown_design_brooklyn /* version checker */
+{
+	color: #00000A;
+	background-color: #0A4341;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1034px;
+	min-height: 3617.9px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 136px 47px 148.0999999999999px;
+}
+
+#u1260
+{
+	z-index: 17;
+	height: 92px;
+	background-color: #FFFFFF;
+	position: fixed;
+	top: 1px;
+}
+
+#u1260-bw
+{
+	z-index: 17;
+}
+
+#u1269
+{
+	z-index: 38;
+	overflow: hidden;
+	position: fixed;
+	top: 20px;
+	left: 50%;
+	margin-left: -580px;
+}
+
+#buttonu1263
+{
+	z-index: 23;
+	width: 142px;
+	border-color: #787878;
+	background-color: transparent;
+	border-radius: 10px;
+	padding-bottom: 10px;
+	position: fixed;
+	top: 29px;
+	left: 50%;
+	margin-left: -48px;
+}
+
+#buttonu1263:hover
+{
+	width: 142px;
+	min-height: 0px;
+	margin: 0px 0px 0px -48px;
+}
+
+#buttonu1263.ButtonSelected
+{
+	width: 142px;
+	min-height: 0px;
+	margin: 0px 0px 0px -48px;
+}
+
+#u1264
+{
+	z-index: 25;
+	height: 18px;
+	width: 119px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 11px;
+	background: url("../images/u1264.png") no-repeat 0px 0px;
+}
+
+#buttonu1263:hover #u1264
+{
+	background: url("../images/u1264-r.png") no-repeat 0px 0px;
+}
+
+#buttonu1263.ButtonSelected #u1264
+{
+	background: url("../images/u1264-a.png") no-repeat 0px 0px;
+}
+
+#buttonu1267
+{
+	z-index: 33;
+	width: 142px;
+	border-color: #787878;
+	background-color: transparent;
+	border-radius: 10px;
+	padding-bottom: 10px;
+	position: fixed;
+	top: 29px;
+	left: 50%;
+	margin-left: 112px;
+}
+
+#buttonu1267:hover
+{
+	width: 142px;
+	min-height: 0px;
+	margin: 0px 0px 0px 112px;
+}
+
+#buttonu1267.ButtonSelected
+{
+	width: 142px;
+	min-height: 0px;
+	margin: 0px 0px 0px 112px;
+}
+
+#u1268
+{
+	z-index: 35;
+	height: 18px;
+	width: 119px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 11px;
+	background: url("../images/u1268.png") no-repeat 0px 0px;
+}
+
+#buttonu1267:hover #u1268
+{
+	background: url("../images/u1268-r.png") no-repeat 0px 0px;
+}
+
+#buttonu1267.ButtonSelected #u1268
+{
+	background: url("../images/u1268-a.png") no-repeat 0px 0px;
+}
+
+#buttonu1261
+{
+	z-index: 18;
+	width: 142px;
+	border-color: #787878;
+	background-color: transparent;
+	border-radius: 10px;
+	padding-bottom: 8px;
+	position: fixed;
+	top: 29px;
+	left: 50%;
+	margin-left: 273px;
+}
+
+#buttonu1261:hover
+{
+	border-style: none;
+	border-color: transparent;
+	width: 142px;
+	min-height: 0px;
+	margin: 0px 0px 0px 273px;
+}
+
+#buttonu1261.ButtonSelected
+{
+	border-color: #787878;
+	width: 142px;
+	min-height: 0px;
+	margin: 0px 0px 0px 273px;
+}
+
+#u1262
+{
+	z-index: 20;
+	height: 18px;
+	width: 125px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 11px;
+	background: url("../images/u1262.png") no-repeat 0px 0px;
+}
+
+#buttonu1261:hover #u1262
+{
+	background: url("../images/u1262-r.png") no-repeat 0px 0px;
+}
+
+#buttonu1261.ButtonSelected #u1262
+{
+	background: url("../images/u1262-a.png") no-repeat 0px 0px;
+}
+
+#buttonu1265
+{
+	z-index: 28;
+	width: 142px;
+	border-color: #787878;
+	background-color: transparent;
+	border-radius: 10px;
+	padding-bottom: 10px;
+	position: fixed;
+	top: 29px;
+	left: 50%;
+	margin-left: 433px;
+}
+
+#buttonu1265:hover
+{
+	width: 142px;
+	min-height: 0px;
+	margin: 0px 0px 0px 433px;
+}
+
+#buttonu1265.ButtonSelected
+{
+	width: 142px;
+	min-height: 0px;
+	margin: 0px 0px 0px 433px;
+}
+
+#u1266
+{
+	z-index: 30;
+	height: 18px;
+	width: 119px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 10px;
+	background: url("../images/u1266.png") no-repeat 0px 0px;
+}
+
+#buttonu1265:hover #u1266
+{
+	background: url("../images/u1266-r.png") no-repeat 0px 0px;
+}
+
+#buttonu1265.ButtonSelected #u1266
+{
+	background: url("../images/u1266-a.png") no-repeat 0px 0px;
+}
+
+#u1272
+{
+	z-index: 2;
+	width: 1034px;
+	height: 485px;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/goldlogo.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u1276
+{
+	z-index: 3;
+	width: 1034px;
+	height: 620px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 433px;
+	background: transparent url("../images/blacklogo.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u1283
+{
+	z-index: 4;
+	width: 1034px;
+	height: 513px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1020px;
+	background: transparent url("../images/label.jpg") no-repeat center center;
+}
+
+#u1290
+{
+	z-index: 5;
+	width: 1034px;
+	height: 602px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1522px;
+	background: transparent url("../images/identity2.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u1297
+{
+	z-index: 6;
+	width: 1034px;
+	height: 631px;
+	position: relative;
+	background: transparent url("../images/skateboards.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u1304
+{
+	z-index: 7;
+	width: 517px;
+	height: 373px;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/blackhoodie.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u1312
+{
+	z-index: 9;
+	width: 517px;
+	height: 373px;
+	position: relative;
+	margin-right: -10000px;
+	left: 517px;
+	background: transparent url("../images/whitehoodie.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#pu1272,#pu1304,#pu1314
+{
+	width: 0.01px;
+}
+
+#u1314
+{
+	z-index: 8;
+	width: 517px;
+	height: 373px;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/whitejumper.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u1313
+{
+	z-index: 10;
+	width: 517px;
+	height: 373px;
+	position: relative;
+	margin-right: -10000px;
+	left: 517px;
+	background: transparent url("../images/blackjumper.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#pbuttonu1339
+{
+	width: 0.01px;
+	margin-left: 441px;
+	margin-top: 68px;
+}
+
+#buttonu1339
+{
+	z-index: 12;
+	width: 151px;
+	height: 46px;
+	border-color: #787878;
+	background-color: #C73B54;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	margin-left: 1px;
+}
+
+#pbuttonu1339:hover #buttonu1339
+{
+	width: 148px;
+	height: 43px;
+	border-width: 3px;
+	border-style: solid;
+	border-color: #C73B54;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 0px;
+	left: 0px;
+	margin-left: 0px;
+	min-height: 0px;
+}
+
+#u1340
+{
+	z-index: 14;
+	height: 23px;
+	width: 119px;
+	vertical-align: top;
+	background: url("../images/u1340.png") no-repeat 0px 0px;
+}
+
+#pbuttonu1339:hover #u1340
+{
+	position: relative;
+	width: 119px;
+	margin-right: -10000px;
+	margin-top: 14px;
+	left: 15px;
+	background: url("../images/u1340-r.png") no-repeat 0px 0px;
+}
+
+#pbuttonu1339 #u1340
+{
+	position: relative;
+	width: 119px;
+	margin-right: -10000px;
+	margin-top: 16px;
+	left: 17px;
+}
+
+body
+{
+	position: relative;
+	min-width: 1128px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

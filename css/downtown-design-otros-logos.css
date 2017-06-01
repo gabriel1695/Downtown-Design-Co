@@ -1,0 +1,362 @@
+.version.downtown_design_otros_logos /* version checker */
+{
+	color: #00000E;
+	background-color: #BD30A6;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1128px;
+	min-height: 3968px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	padding-top: 1px;
+	padding-bottom: 94px;
+	width: 0.01px;
+}
+
+#inicio
+{
+	left: -101px;
+	position: relative;
+}
+
+#u1637
+{
+	z-index: 13;
+	height: 92px;
+	background-color: #FFFFFF;
+	position: fixed;
+	top: 1px;
+}
+
+#u1637-bw
+{
+	z-index: 13;
+}
+
+#u1646
+{
+	z-index: 34;
+	overflow: hidden;
+	position: fixed;
+	top: 20px;
+	left: 50%;
+	margin-left: -579px;
+}
+
+#buttonu1640
+{
+	z-index: 19;
+	width: 142px;
+	border-color: #787878;
+	background-color: transparent;
+	border-radius: 10px;
+	padding-bottom: 10px;
+	position: fixed;
+	top: 29px;
+	left: 50%;
+	margin-left: -48px;
+}
+
+#buttonu1640:hover
+{
+	width: 142px;
+	min-height: 0px;
+	margin: 0px 0px 0px -48px;
+}
+
+#buttonu1640.ButtonSelected
+{
+	width: 142px;
+	min-height: 0px;
+	margin: 0px 0px 0px -48px;
+}
+
+#u1641
+{
+	z-index: 21;
+	height: 18px;
+	width: 119px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 11px;
+	background: url("../images/u1641.png") no-repeat 0px 0px;
+}
+
+#buttonu1640:hover #u1641
+{
+	background: url("../images/u1641-r.png") no-repeat 0px 0px;
+}
+
+#buttonu1640.ButtonSelected #u1641
+{
+	background: url("../images/u1641-a.png") no-repeat 0px 0px;
+}
+
+#buttonu1644
+{
+	z-index: 29;
+	width: 142px;
+	border-color: #787878;
+	background-color: transparent;
+	border-radius: 10px;
+	padding-bottom: 10px;
+	position: fixed;
+	top: 29px;
+	left: 50%;
+	margin-left: 113px;
+}
+
+#buttonu1644:hover
+{
+	width: 142px;
+	min-height: 0px;
+	margin: 0px 0px 0px 113px;
+}
+
+#buttonu1644.ButtonSelected
+{
+	width: 142px;
+	min-height: 0px;
+	margin: 0px 0px 0px 113px;
+}
+
+#u1645
+{
+	z-index: 31;
+	height: 18px;
+	width: 119px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 11px;
+	background: url("../images/u1645.png") no-repeat 0px 0px;
+}
+
+#buttonu1644:hover #u1645
+{
+	background: url("../images/u1645-r.png") no-repeat 0px 0px;
+}
+
+#buttonu1644.ButtonSelected #u1645
+{
+	background: url("../images/u1645-a.png") no-repeat 0px 0px;
+}
+
+#buttonu1638
+{
+	z-index: 14;
+	width: 142px;
+	border-color: #787878;
+	background-color: transparent;
+	border-radius: 10px;
+	padding-bottom: 8px;
+	position: fixed;
+	top: 29px;
+	left: 50%;
+	margin-left: 273px;
+}
+
+#buttonu1638:hover
+{
+	border-style: none;
+	border-color: transparent;
+	width: 142px;
+	min-height: 0px;
+	margin: 0px 0px 0px 273px;
+}
+
+#buttonu1638.ButtonSelected
+{
+	border-color: #787878;
+	width: 142px;
+	min-height: 0px;
+	margin: 0px 0px 0px 273px;
+}
+
+#u1639
+{
+	z-index: 16;
+	height: 18px;
+	width: 125px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 11px;
+	background: url("../images/u1639.png") no-repeat 0px 0px;
+}
+
+#buttonu1638:hover #u1639
+{
+	background: url("../images/u1639-r.png") no-repeat 0px 0px;
+}
+
+#buttonu1638.ButtonSelected #u1639
+{
+	background: url("../images/u1639-a.png") no-repeat 0px 0px;
+}
+
+#buttonu1642
+{
+	z-index: 24;
+	width: 142px;
+	border-color: #787878;
+	background-color: transparent;
+	border-radius: 10px;
+	padding-bottom: 10px;
+	position: fixed;
+	top: 29px;
+	left: 50%;
+	margin-left: 433px;
+}
+
+#buttonu1642:hover
+{
+	width: 142px;
+	min-height: 0px;
+	margin: 0px 0px 0px 433px;
+}
+
+#buttonu1642.ButtonSelected
+{
+	width: 142px;
+	min-height: 0px;
+	margin: 0px 0px 0px 433px;
+}
+
+#u1643
+{
+	z-index: 26;
+	height: 18px;
+	width: 119px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 10px;
+	background: url("../images/u1643.png") no-repeat 0px 0px;
+}
+
+#buttonu1642:hover #u1643
+{
+	background: url("../images/u1643-r.png") no-repeat 0px 0px;
+}
+
+#buttonu1642.ButtonSelected #u1643
+{
+	background: url("../images/u1643-a.png") no-repeat 0px 0px;
+}
+
+#u2050
+{
+	z-index: 5;
+	width: 1329px;
+	background-color: transparent;
+	left: -101px;
+	margin-top: 74px;
+	position: relative;
+}
+
+#u2044
+{
+	z-index: 3;
+	width: 1329px;
+	background-color: transparent;
+	left: -101px;
+	position: relative;
+}
+
+#pbuttonu2187
+{
+	width: 0.01px;
+	margin-left: 487px;
+	margin-top: 34px;
+}
+
+#buttonu2187
+{
+	z-index: 8;
+	width: 151px;
+	height: 46px;
+	border-color: #787878;
+	background-color: #C73B54;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	margin-left: 1px;
+}
+
+#pbuttonu2187:hover #buttonu2187
+{
+	width: 148px;
+	height: 43px;
+	border-width: 3px;
+	border-style: solid;
+	border-color: #C73B54;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 0px;
+	left: 0px;
+	margin-left: 0px;
+	min-height: 0px;
+}
+
+#u2188
+{
+	z-index: 10;
+	height: 23px;
+	width: 119px;
+	vertical-align: top;
+	background: url("../images/u2188.png") no-repeat 0px 0px;
+}
+
+#pbuttonu2187:hover #u2188
+{
+	position: relative;
+	width: 119px;
+	margin-right: -10000px;
+	margin-top: 14px;
+	left: 15px;
+	background: url("../images/u2188-r.png") no-repeat 0px 0px;
+}
+
+#pbuttonu2187 #u2188
+{
+	position: relative;
+	width: 119px;
+	margin-right: -10000px;
+	margin-top: 16px;
+	left: 17px;
+}
+
+body
+{
+	position: relative;
+	min-width: 1128px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

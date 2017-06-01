@@ -1,0 +1,390 @@
+.version.downtown_design_wilking_brau /* version checker */
+{
+	color: #000000;
+	background-color: #CA0302;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1034px;
+	min-height: 2655px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 157px 47px 60px;
+}
+
+#u1376
+{
+	z-index: 7;
+	height: 92px;
+	background-color: #FFFFFF;
+	position: fixed;
+	top: 0px;
+}
+
+#u1376-bw
+{
+	z-index: 7;
+}
+
+#u1385
+{
+	z-index: 28;
+	overflow: hidden;
+	position: fixed;
+	top: 19px;
+	left: 50%;
+	margin-left: -600px;
+}
+
+#buttonu1379
+{
+	z-index: 13;
+	width: 142px;
+	border-color: #787878;
+	background-color: transparent;
+	border-radius: 10px;
+	padding-bottom: 10px;
+	position: fixed;
+	top: 28px;
+	left: 50%;
+	margin-left: -69px;
+}
+
+#buttonu1379:hover
+{
+	width: 142px;
+	min-height: 0px;
+	margin: 0px 0px 0px -69px;
+}
+
+#buttonu1379.ButtonSelected
+{
+	width: 142px;
+	min-height: 0px;
+	margin: 0px 0px 0px -69px;
+}
+
+#u1380
+{
+	z-index: 15;
+	height: 18px;
+	width: 119px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 11px;
+	background: url("../images/u1380.png") no-repeat 0px 0px;
+}
+
+#buttonu1379:hover #u1380
+{
+	background: url("../images/u1380-r.png") no-repeat 0px 0px;
+}
+
+#buttonu1379.ButtonSelected #u1380
+{
+	background: url("../images/u1380-a.png") no-repeat 0px 0px;
+}
+
+#buttonu1383
+{
+	z-index: 23;
+	width: 142px;
+	border-color: #787878;
+	background-color: transparent;
+	border-radius: 10px;
+	padding-bottom: 10px;
+	position: fixed;
+	top: 28px;
+	left: 50%;
+	margin-left: 92px;
+}
+
+#buttonu1383:hover
+{
+	width: 142px;
+	min-height: 0px;
+	margin: 0px 0px 0px 92px;
+}
+
+#buttonu1383.ButtonSelected
+{
+	width: 142px;
+	min-height: 0px;
+	margin: 0px 0px 0px 92px;
+}
+
+#u1384
+{
+	z-index: 25;
+	height: 18px;
+	width: 119px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 11px;
+	background: url("../images/u1384.png") no-repeat 0px 0px;
+}
+
+#buttonu1383:hover #u1384
+{
+	background: url("../images/u1384-r.png") no-repeat 0px 0px;
+}
+
+#buttonu1383.ButtonSelected #u1384
+{
+	background: url("../images/u1384-a.png") no-repeat 0px 0px;
+}
+
+#buttonu1377
+{
+	z-index: 8;
+	width: 142px;
+	border-color: #787878;
+	background-color: transparent;
+	border-radius: 10px;
+	padding-bottom: 8px;
+	position: fixed;
+	top: 28px;
+	left: 50%;
+	margin-left: 252px;
+}
+
+#buttonu1377:hover
+{
+	border-style: none;
+	border-color: transparent;
+	width: 142px;
+	min-height: 0px;
+	margin: 0px 0px 0px 252px;
+}
+
+#buttonu1377.ButtonSelected
+{
+	border-color: #787878;
+	width: 142px;
+	min-height: 0px;
+	margin: 0px 0px 0px 252px;
+}
+
+#u1378
+{
+	z-index: 10;
+	height: 18px;
+	width: 125px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 11px;
+	background: url("../images/u1378.png") no-repeat 0px 0px;
+}
+
+#buttonu1377:hover #u1378
+{
+	background: url("../images/u1378-r.png") no-repeat 0px 0px;
+}
+
+#buttonu1377.ButtonSelected #u1378
+{
+	background: url("../images/u1378-a.png") no-repeat 0px 0px;
+}
+
+#buttonu1381
+{
+	z-index: 18;
+	width: 142px;
+	border-color: #787878;
+	background-color: transparent;
+	border-radius: 10px;
+	padding-bottom: 10px;
+	position: fixed;
+	top: 28px;
+	left: 50%;
+	margin-left: 412px;
+}
+
+#buttonu1381:hover
+{
+	width: 142px;
+	min-height: 0px;
+	margin: 0px 0px 0px 412px;
+}
+
+#buttonu1381.ButtonSelected
+{
+	width: 142px;
+	min-height: 0px;
+	margin: 0px 0px 0px 412px;
+}
+
+#u1382
+{
+	z-index: 20;
+	height: 18px;
+	width: 119px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 10px;
+	background: url("../images/u1382.png") no-repeat 0px 0px;
+}
+
+#buttonu1381:hover #u1382
+{
+	background: url("../images/u1382-r.png") no-repeat 0px 0px;
+}
+
+#buttonu1381.ButtonSelected #u1382
+{
+	background: url("../images/u1382-a.png") no-repeat 0px 0px;
+}
+
+#u1341
+{
+	z-index: 2;
+	width: 1034px;
+	height: 341px;
+	position: relative;
+	background: transparent url("../images/logo-2.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#pu1348
+{
+	width: 0.01px;
+}
+
+#u1348
+{
+	z-index: 3;
+	width: 1034px;
+	height: 484px;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/wilkingbraulogo.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u1355
+{
+	z-index: 4;
+	width: 1034px;
+	height: 605px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 392px;
+	background: transparent url("../images/beer%20bottles.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u1362
+{
+	z-index: 5;
+	width: 1034px;
+	height: 570px;
+	position: relative;
+	background: transparent url("../images/six%20pack%20beer%20packaging%20and%20label%20mock-up.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u1369
+{
+	z-index: 6;
+	width: 1034px;
+	height: 681px;
+	position: relative;
+	background: transparent url("../images/identity%20wilking%20brau.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#pbuttonu1388
+{
+	width: 0.01px;
+	margin-left: 440px;
+	margin-top: 42px;
+}
+
+#buttonu1388
+{
+	z-index: 30;
+	width: 151px;
+	height: 46px;
+	border-color: #787878;
+	background-color: #C73B54;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	margin-left: 1px;
+}
+
+#pbuttonu1388:hover #buttonu1388
+{
+	width: 148px;
+	height: 43px;
+	border-width: 3px;
+	border-style: solid;
+	border-color: #C73B54;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 0px;
+	left: 0px;
+	margin-left: 0px;
+	min-height: 0px;
+}
+
+#u1389
+{
+	z-index: 32;
+	height: 23px;
+	width: 119px;
+	vertical-align: top;
+	background: url("../images/u1389.png") no-repeat 0px 0px;
+}
+
+#pbuttonu1388:hover #u1389
+{
+	position: relative;
+	width: 119px;
+	margin-right: -10000px;
+	margin-top: 14px;
+	left: 15px;
+	background: url("../images/u1389-r.png") no-repeat 0px 0px;
+}
+
+#pbuttonu1388 #u1389
+{
+	position: relative;
+	width: 119px;
+	margin-right: -10000px;
+	margin-top: 16px;
+	left: 17px;
+}
+
+body
+{
+	position: relative;
+	min-width: 1128px;
+	padding-bottom: 79px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

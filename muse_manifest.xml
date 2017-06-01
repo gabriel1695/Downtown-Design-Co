@@ -1,0 +1,341 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="downtowndesignco.com" resolutions="1x" timestamp="1495725741358">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="master_b-master.css" crc="4093371722" ref="downtown-design-co"/>
+    <file name="master_a-master.css" crc="3778982187" ref="index"/>
+    <file name="downtown-design-brooklyn.css" crc="168444737" ref="downtown-design-brooklyn"/>
+    <file name="downtown-design-otros-logos.css" crc="247279782" ref="downtown-design-otros-logos"/>
+    <file name="downtown-design-gs.css" crc="522922680" ref="downtown-design-gs"/>
+    <file name="downtown-design-masbox.css" crc="4163497690" ref="downtown-design-masbox"/>
+    <file name="downtown-design-gabriel-juarez.css" crc="3987413510" ref="downtown-design-gabriel-juarez"/>
+    <file name="downtown-design-co.css" crc="4124249845" ref="downtown-design-co"/>
+    <file name="downtown-design-lettering.css" crc="4241099377" ref="downtown-design-lettering"/>
+    <file name="downtown-design-wilking-brau.css" crc="13239042" ref="downtown-design-wilking-brau"/>
+    <file name="downtown-design-croissant.css" crc="4287093489" ref="downtown-design-croissant"/>
+    <file name="index.css" crc="471900660" ref="index"/>
+    <file name="downtown-design-foto.css" crc="3927670408" ref="downtown-design-foto"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="downtown-design-co:index:downtown-design-gs:downtown-design-gabriel-juarez:downtown-design-croissant:downtown-design-otros-logos:downtown-design-wilking-brau:downtown-design-brooklyn:downtown-design-masbox:downtown-design-lettering:downtown-design-foto"/>
+    <file name="museutils.js" crc="183364071" ref="downtown-design-co:index:downtown-design-gs:downtown-design-gabriel-juarez:downtown-design-croissant:downtown-design-otros-logos:downtown-design-wilking-brau:downtown-design-brooklyn:downtown-design-masbox:downtown-design-lettering:downtown-design-foto"/>
+    <file name="pie.js" crc="3827607177" ref="downtown-design-co:index:downtown-design-gs:downtown-design-gabriel-juarez:downtown-design-croissant:downtown-design-otros-logos:downtown-design-wilking-brau:downtown-design-brooklyn:downtown-design-masbox:downtown-design-lettering:downtown-design-foto"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="downtown-design-co:index:downtown-design-gs:downtown-design-gabriel-juarez:downtown-design-croissant:downtown-design-wilking-brau:downtown-design-brooklyn:downtown-design-masbox:downtown-design-lettering:downtown-design-foto"/>
+    <file name="jquery.watch.js" crc="71412426" ref="downtown-design-co:index:downtown-design-gs:downtown-design-gabriel-juarez:downtown-design-croissant:downtown-design-otros-logos:downtown-design-wilking-brau:downtown-design-brooklyn:downtown-design-masbox:downtown-design-lettering:downtown-design-foto"/>
+    <file name="webpro.js" crc="3803554875" ref="downtown-design-co"/>
+    <file name="form_check.php" crc="277267350" ref="downtown-design-co"/>
+    <file name="form_throttle.php" crc="3908387251" ref="downtown-design-co"/>
+    <file name="form_process.php" crc="24249335" ref="downtown-design-co"/>
+    <file name="form-u2231.php" crc="518725756" ref="downtown-design-co"/>
+  </folder>
+  <folder name="images">
+    <file name="pasted svg 5859x111.svg" crc="4156221030" ref="downtown-design-co:downtown-design-gs:downtown-design-gabriel-juarez:downtown-design-croissant:downtown-design-otros-logos:downtown-design-wilking-brau:downtown-design-brooklyn:downtown-design-masbox:downtown-design-lettering:downtown-design-foto"/>
+    <file name="pasted svg 5859x111_poster_.png" crc="3898684336" ref="downtown-design-co"/>
+    <file name="blank.gif" crc="4208392903" ref="downtown-design-co:index:downtown-design-gs:downtown-design-gabriel-juarez:downtown-design-croissant:downtown-design-otros-logos:downtown-design-wilking-brau:downtown-design-brooklyn:downtown-design-masbox:downtown-design-lettering:downtown-design-foto"/>
+    <file name="u552.png" crc="3993502955" ref="downtown-design-co"/>
+    <file name="u552-r.png" crc="532980753" ref="downtown-design-co"/>
+    <file name="u552-a.png" crc="445085558" ref="downtown-design-co"/>
+    <file name="u554.png" crc="4164557431" ref="downtown-design-co"/>
+    <file name="u554-r.png" crc="257464694" ref="downtown-design-co"/>
+    <file name="u554-a.png" crc="421898381" ref="downtown-design-co"/>
+    <file name="u550.png" crc="376436269" ref="downtown-design-co"/>
+    <file name="u550-r.png" crc="4123600752" ref="downtown-design-co"/>
+    <file name="u550-a.png" crc="409992440" ref="downtown-design-co"/>
+    <file name="u556.png" crc="100398026" ref="downtown-design-co"/>
+    <file name="u556-r.png" crc="168963535" ref="downtown-design-co"/>
+    <file name="u556-a.png" crc="4176811827" ref="downtown-design-co"/>
+    <file name="pasted svg 5591x200.svg" crc="4047586570" ref="downtown-design-co"/>
+    <file name="pasted svg 5591x200_poster_.png" crc="3852861672" ref="downtown-design-co"/>
+    <file name="u724-9.png" crc="3997250949" ref="downtown-design-co"/>
+    <file name="u1030-4.png" crc="4142771995" ref="downtown-design-co"/>
+    <file name="gabriel jiuarez.jpg" crc="3761202357" ref="downtown-design-co"/>
+    <file name="u829-4.png" crc="499780659" ref="downtown-design-co"/>
+    <file name="u2254-23.png" crc="246720976" ref="downtown-design-co"/>
+    <file name="u2315-4.png" crc="4142771995" ref="downtown-design-co"/>
+    <file name="15232073_10154503935086917_6402644664340854586_n.jpg" crc="209187754" ref="downtown-design-co"/>
+    <file name="u2316-5.png" crc="21098920" ref="downtown-design-co"/>
+    <file name="dwntwn2-bw.jpg" crc="3930656774" ref="downtown-design-co"/>
+    <file name="u2253-4.png" crc="3819092974" ref="downtown-design-co"/>
+    <file name="u2263-56.png" crc="191537972" ref="downtown-design-co"/>
+    <file name="u2267-18.png" crc="4003179231" ref="downtown-design-co"/>
+    <file name="pasted svg 175.svg" crc="3786917111" ref="downtown-design-co"/>
+    <file name="pasted svg 175_poster_.png" crc="4147422408" ref="downtown-design-co"/>
+    <file name="u957-4.png" crc="199969576" ref="downtown-design-co"/>
+    <file name="dwntwn1.jpg" crc="4035332240" ref="downtown-design-co:index"/>
+    <file name="71.jpg" crc="148013923" ref="downtown-design-co"/>
+    <file name="letter-print-logo-mockup1.jpg" crc="59485143" ref="downtown-design-co"/>
+    <file name="da shit-2.jpg" crc="4276533036" ref="downtown-design-co:downtown-design-lettering"/>
+    <file name="web2-u1222-fr.jpg" crc="4255453228" ref="downtown-design-co"/>
+    <file name="gs coffe.jpg" crc="3958565901" ref="downtown-design-co:downtown-design-gs"/>
+    <file name="pasted svg 282x334.svg" crc="81747103" ref="downtown-design-co"/>
+    <file name="pasted svg 282x334_poster_.png" crc="3841349724" ref="downtown-design-co"/>
+    <file name="goldlogo-u963-fr.jpg" crc="7927833" ref="downtown-design-co"/>
+    <file name="logo-2.jpg" crc="3907548912" ref="downtown-design-co:downtown-design-wilking-brau"/>
+    <file name="pasted svg 504x332.svg" crc="4285881508" ref="downtown-design-co"/>
+    <file name="cup.jpg" crc="179957308" seo="true" ref="downtown-design-co:downtown-design-croissant"/>
+    <file name="pasted svg 470x334.svg" crc="497991067" ref="downtown-design-co"/>
+    <file name="pasted svg 376x507.svg" crc="3867784238" ref="downtown-design-co"/>
+    <file name="pasted svg 282x3342.svg" crc="222330048" ref="downtown-design-co"/>
+    <file name="pasted svg 282x334_poster_2.png" crc="159937539" ref="downtown-design-co"/>
+    <file name="pasted svg 504x3322.svg" crc="167944409" ref="downtown-design-co"/>
+    <file name="pasted svg 250x334.svg" crc="3795151947" ref="downtown-design-co"/>
+    <file name="pasted svg 250x334_poster_.png" crc="357592466" ref="downtown-design-co"/>
+    <file name="pasted svg 376x495.svg" crc="3774121676" ref="downtown-design-co"/>
+    <file name="pasted svg 376x495_poster_.png" crc="221948897" ref="downtown-design-co"/>
+    <file name="pasted svg 250x3342.svg" crc="273402660" ref="downtown-design-co"/>
+    <file name="pasted svg 250x334_poster_2.png" crc="7507783" ref="downtown-design-co"/>
+    <file name="aerial-view-of-hands-on-computer-keyboards-mobile-phone-and-yellow-watch-on-table.jpg" crc="3838332271" ref="downtown-design-co"/>
+    <file name="pasted svg 3072x233.svg" crc="4110262645" ref="downtown-design-co"/>
+    <file name="pasted svg 3072x233_poster_.png" crc="434742390" ref="downtown-design-co"/>
+    <file name="pasted svg 2592x89.svg" crc="462039820" ref="downtown-design-co"/>
+    <file name="pasted svg 2592x89_poster_.png" crc="3947067481" ref="downtown-design-co"/>
+    <file name="u2247-17.png" crc="337861563" ref="downtown-design-co"/>
+    <file name="u2247-17-r.png" crc="408956564" ref="downtown-design-co"/>
+    <file name="u2247-17-m.png" crc="4081442187" ref="downtown-design-co"/>
+    <file name="u2247-17-fs.png" crc="519758547" ref="downtown-design-co"/>
+    <file name="pasted svg 3098x248.svg" crc="3944389639" ref="index"/>
+    <file name="pasted svg 3098x248_poster_.png" crc="97076846" ref="index"/>
+    <file name="u866-4.png" crc="112704188" ref="index"/>
+    <file name="u869.png" crc="3864996003" ref="index"/>
+    <file name="u869-r.png" crc="3864996003" ref="index"/>
+    <file name="u869-m.png" crc="3992731283" ref="index"/>
+    <file name="u1138.png" crc="3993502955" ref="downtown-design-gs"/>
+    <file name="u1138-r.png" crc="532980753" ref="downtown-design-gs"/>
+    <file name="u1138-a.png" crc="445085558" ref="downtown-design-gs"/>
+    <file name="u1142.png" crc="67735335" ref="downtown-design-gs"/>
+    <file name="u1142-r.png" crc="4198849613" ref="downtown-design-gs"/>
+    <file name="u1142-a.png" crc="4252270298" ref="downtown-design-gs"/>
+    <file name="u1136.png" crc="376436269" ref="downtown-design-gs"/>
+    <file name="u1136-r.png" crc="4123600752" ref="downtown-design-gs"/>
+    <file name="u1136-a.png" crc="409992440" ref="downtown-design-gs"/>
+    <file name="u1140.png" crc="100398026" ref="downtown-design-gs"/>
+    <file name="u1140-r.png" crc="168963535" ref="downtown-design-gs"/>
+    <file name="u1140-a.png" crc="4176811827" ref="downtown-design-gs"/>
+    <file name="gs coffee bar.jpg" crc="158182646" ref="downtown-design-gs"/>
+    <file name="vancouver,_bc_-_granville_street_02.jpg" crc="233045334" ref="downtown-design-gs"/>
+    <file name="letterpress logo.jpg" crc="41464186" ref="downtown-design-gs"/>
+    <file name="gs labels.jpg" crc="249393125" ref="downtown-design-gs"/>
+    <file name="identity.jpg" crc="3838852751" ref="downtown-design-gs"/>
+    <file name="u1131.png" crc="327470058" ref="downtown-design-gs"/>
+    <file name="u1131-r.png" crc="3804845445" ref="downtown-design-gs"/>
+    <file name="u1394.png" crc="3993502955" ref="downtown-design-gabriel-juarez"/>
+    <file name="u1394-r.png" crc="532980753" ref="downtown-design-gabriel-juarez"/>
+    <file name="u1394-a.png" crc="445085558" ref="downtown-design-gabriel-juarez"/>
+    <file name="u1398.png" crc="67735335" ref="downtown-design-gabriel-juarez"/>
+    <file name="u1398-r.png" crc="4198849613" ref="downtown-design-gabriel-juarez"/>
+    <file name="u1398-a.png" crc="4252270298" ref="downtown-design-gabriel-juarez"/>
+    <file name="u1392.png" crc="376436269" ref="downtown-design-gabriel-juarez"/>
+    <file name="u1392-r.png" crc="4123600752" ref="downtown-design-gabriel-juarez"/>
+    <file name="u1392-a.png" crc="409992440" ref="downtown-design-gabriel-juarez"/>
+    <file name="u1396.png" crc="100398026" ref="downtown-design-gabriel-juarez"/>
+    <file name="u1396-r.png" crc="168963535" ref="downtown-design-gabriel-juarez"/>
+    <file name="u1396-a.png" crc="4176811827" ref="downtown-design-gabriel-juarez"/>
+    <file name="pasted svg 2122x49.svg" crc="357507285" ref="downtown-design-gabriel-juarez"/>
+    <file name="pasted svg 2122x49_poster_.png" crc="109857230" ref="downtown-design-gabriel-juarez"/>
+    <file name="pasted svg 1216x129.svg" crc="65239852" ref="downtown-design-gabriel-juarez"/>
+    <file name="pasted svg 1216x129_poster_.png" crc="4229572660" ref="downtown-design-gabriel-juarez"/>
+    <file name="pasted svg 2681x55.svg" crc="4041739064" ref="downtown-design-gabriel-juarez"/>
+    <file name="pasted svg 2681x55_poster_.png" crc="4016267447" ref="downtown-design-gabriel-juarez"/>
+    <file name="pasted svg 1351x134.svg" crc="4195533795" ref="downtown-design-gabriel-juarez"/>
+    <file name="pasted svg 1351x134_poster_.png" crc="346374220" ref="downtown-design-gabriel-juarez"/>
+    <file name="01-stationery-premium-mockup-inter-size.jpg" crc="3904584061" ref="downtown-design-gabriel-juarez"/>
+    <file name="book.jpg" crc="4081693179" ref="downtown-design-gabriel-juarez"/>
+    <file name="cards2.jpg" crc="3841542345" ref="downtown-design-gabriel-juarez"/>
+    <file name="u1459.png" crc="327470058" ref="downtown-design-gabriel-juarez"/>
+    <file name="u1459-r.png" crc="3804845445" ref="downtown-design-gabriel-juarez"/>
+    <file name="u2061.png" crc="3993502955" ref="downtown-design-croissant"/>
+    <file name="u2061-r.png" crc="532980753" ref="downtown-design-croissant"/>
+    <file name="u2061-a.png" crc="445085558" ref="downtown-design-croissant"/>
+    <file name="u2065.png" crc="67735335" ref="downtown-design-croissant"/>
+    <file name="u2065-r.png" crc="4198849613" ref="downtown-design-croissant"/>
+    <file name="u2065-a.png" crc="4252270298" ref="downtown-design-croissant"/>
+    <file name="u2059.png" crc="376436269" ref="downtown-design-croissant"/>
+    <file name="u2059-r.png" crc="4123600752" ref="downtown-design-croissant"/>
+    <file name="u2059-a.png" crc="409992440" ref="downtown-design-croissant"/>
+    <file name="u2063.png" crc="100398026" ref="downtown-design-croissant"/>
+    <file name="u2063-r.png" crc="168963535" ref="downtown-design-croissant"/>
+    <file name="u2063-a.png" crc="4176811827" ref="downtown-design-croissant"/>
+    <file name="webcroissant.jpg" crc="3800175832" ref="downtown-design-croissant"/>
+    <file name="c7eb24669faa537add27c96140a84e16.jpg" crc="161595655" seo="true" ref="downtown-design-croissant"/>
+    <file name="u2133-4.png" crc="210479204" ref="downtown-design-croissant"/>
+    <file name="wcpo_factory_newport_1430928774601_17939975_ver10_640_480.jpg" crc="264378576" seo="true" ref="downtown-design-croissant"/>
+    <file name="u2135-4.png" crc="507666078" ref="downtown-design-croissant"/>
+    <file name="2476cc188dbbf22f0b5036f6b961768e.jpg" crc="500247657" seo="true" ref="downtown-design-croissant"/>
+    <file name="u2136-6.png" crc="4016406275" ref="downtown-design-croissant"/>
+    <file name="pasted svg 3537x125.svg" crc="4184753732" ref="downtown-design-croissant"/>
+    <file name="pasted svg 3537x125_poster_.png" crc="4129862964" ref="downtown-design-croissant"/>
+    <file name="pasted svg 4871x104.svg" crc="413424630" ref="downtown-design-croissant"/>
+    <file name="pasted svg 4871x104_poster_.png" crc="4218911263" ref="downtown-design-croissant"/>
+    <file name="pasted svg 4871x1042.svg" crc="4261747566" ref="downtown-design-croissant"/>
+    <file name="pasted svg 4871x104_poster_2.png" crc="152061826" ref="downtown-design-croissant"/>
+    <file name="pasted svg 4756x448.svg" crc="487225999" ref="downtown-design-croissant"/>
+    <file name="pasted svg 4756x448_poster_.png" crc="4101951948" ref="downtown-design-croissant"/>
+    <file name="web1.jpg" crc="349776198" ref="downtown-design-croissant"/>
+    <file name="web2.jpg" crc="3999951203" ref="downtown-design-croissant"/>
+    <file name="coffee.jpg" crc="161011049" seo="true" ref="downtown-design-croissant"/>
+    <file name="croissant mockups.jpg" crc="3938460171" seo="true" ref="downtown-design-croissant"/>
+    <file name="u2182.png" crc="327470058" ref="downtown-design-croissant"/>
+    <file name="u2182-r.png" crc="3804845445" ref="downtown-design-croissant"/>
+    <file name="u1641.png" crc="3993502955" ref="downtown-design-otros-logos"/>
+    <file name="u1641-r.png" crc="532980753" ref="downtown-design-otros-logos"/>
+    <file name="u1641-a.png" crc="445085558" ref="downtown-design-otros-logos"/>
+    <file name="u1645.png" crc="67735335" ref="downtown-design-otros-logos"/>
+    <file name="u1645-r.png" crc="4198849613" ref="downtown-design-otros-logos"/>
+    <file name="u1645-a.png" crc="4252270298" ref="downtown-design-otros-logos"/>
+    <file name="u1639.png" crc="376436269" ref="downtown-design-otros-logos"/>
+    <file name="u1639-r.png" crc="4123600752" ref="downtown-design-otros-logos"/>
+    <file name="u1639-a.png" crc="409992440" ref="downtown-design-otros-logos"/>
+    <file name="u1643.png" crc="100398026" ref="downtown-design-otros-logos"/>
+    <file name="u1643-r.png" crc="168963535" ref="downtown-design-otros-logos"/>
+    <file name="u1643-a.png" crc="4176811827" ref="downtown-design-otros-logos"/>
+    <file name="otros2.jpg" crc="472658616" seo="true" ref="downtown-design-otros-logos"/>
+    <file name="otros3.jpg" crc="220299338" seo="true" ref="downtown-design-otros-logos"/>
+    <file name="u2188.png" crc="327470058" ref="downtown-design-otros-logos"/>
+    <file name="u2188-r.png" crc="3804845445" ref="downtown-design-otros-logos"/>
+    <file name="u1380.png" crc="3993502955" ref="downtown-design-wilking-brau"/>
+    <file name="u1380-r.png" crc="532980753" ref="downtown-design-wilking-brau"/>
+    <file name="u1380-a.png" crc="445085558" ref="downtown-design-wilking-brau"/>
+    <file name="u1384.png" crc="67735335" ref="downtown-design-wilking-brau"/>
+    <file name="u1384-r.png" crc="4198849613" ref="downtown-design-wilking-brau"/>
+    <file name="u1384-a.png" crc="4252270298" ref="downtown-design-wilking-brau"/>
+    <file name="u1378.png" crc="376436269" ref="downtown-design-wilking-brau"/>
+    <file name="u1378-r.png" crc="4123600752" ref="downtown-design-wilking-brau"/>
+    <file name="u1378-a.png" crc="409992440" ref="downtown-design-wilking-brau"/>
+    <file name="u1382.png" crc="100398026" ref="downtown-design-wilking-brau"/>
+    <file name="u1382-r.png" crc="168963535" ref="downtown-design-wilking-brau"/>
+    <file name="u1382-a.png" crc="4176811827" ref="downtown-design-wilking-brau"/>
+    <file name="wilkingbraulogo.jpg" crc="4029109568" ref="downtown-design-wilking-brau"/>
+    <file name="beer bottles.jpg" crc="119523138" ref="downtown-design-wilking-brau"/>
+    <file name="six pack beer packaging and label mock-up.jpg" crc="3936184446" ref="downtown-design-wilking-brau"/>
+    <file name="identity wilking brau.jpg" crc="3781790759" ref="downtown-design-wilking-brau"/>
+    <file name="u1389.png" crc="327470058" ref="downtown-design-wilking-brau"/>
+    <file name="u1389-r.png" crc="3804845445" ref="downtown-design-wilking-brau"/>
+    <file name="u1264.png" crc="3993502955" ref="downtown-design-brooklyn"/>
+    <file name="u1264-r.png" crc="532980753" ref="downtown-design-brooklyn"/>
+    <file name="u1264-a.png" crc="445085558" ref="downtown-design-brooklyn"/>
+    <file name="u1268.png" crc="67735335" ref="downtown-design-brooklyn"/>
+    <file name="u1268-r.png" crc="4198849613" ref="downtown-design-brooklyn"/>
+    <file name="u1268-a.png" crc="4252270298" ref="downtown-design-brooklyn"/>
+    <file name="u1262.png" crc="376436269" ref="downtown-design-brooklyn"/>
+    <file name="u1262-r.png" crc="4123600752" ref="downtown-design-brooklyn"/>
+    <file name="u1262-a.png" crc="409992440" ref="downtown-design-brooklyn"/>
+    <file name="u1266.png" crc="100398026" ref="downtown-design-brooklyn"/>
+    <file name="u1266-r.png" crc="168963535" ref="downtown-design-brooklyn"/>
+    <file name="u1266-a.png" crc="4176811827" ref="downtown-design-brooklyn"/>
+    <file name="goldlogo.jpg" crc="3959321466" ref="downtown-design-brooklyn"/>
+    <file name="blacklogo.jpg" crc="75013055" ref="downtown-design-brooklyn"/>
+    <file name="label.jpg" crc="38476261" ref="downtown-design-brooklyn"/>
+    <file name="identity2.jpg" crc="184942209" ref="downtown-design-brooklyn"/>
+    <file name="skateboards.jpg" crc="4243972653" ref="downtown-design-brooklyn"/>
+    <file name="blackhoodie.jpg" crc="3830712210" ref="downtown-design-brooklyn"/>
+    <file name="whitehoodie.jpg" crc="3974635329" ref="downtown-design-brooklyn"/>
+    <file name="whitejumper.jpg" crc="22197747" ref="downtown-design-brooklyn"/>
+    <file name="blackjumper.jpg" crc="79455464" ref="downtown-design-brooklyn"/>
+    <file name="u1340.png" crc="327470058" ref="downtown-design-brooklyn"/>
+    <file name="u1340-r.png" crc="3804845445" ref="downtown-design-brooklyn"/>
+    <file name="u1464.png" crc="3993502955" ref="downtown-design-masbox"/>
+    <file name="u1464-r.png" crc="532980753" ref="downtown-design-masbox"/>
+    <file name="u1464-a.png" crc="445085558" ref="downtown-design-masbox"/>
+    <file name="u1468.png" crc="67735335" ref="downtown-design-masbox"/>
+    <file name="u1468-r.png" crc="4198849613" ref="downtown-design-masbox"/>
+    <file name="u1468-a.png" crc="4252270298" ref="downtown-design-masbox"/>
+    <file name="u1462.png" crc="376436269" ref="downtown-design-masbox"/>
+    <file name="u1462-r.png" crc="4123600752" ref="downtown-design-masbox"/>
+    <file name="u1462-a.png" crc="409992440" ref="downtown-design-masbox"/>
+    <file name="u1466.png" crc="100398026" ref="downtown-design-masbox"/>
+    <file name="u1466-r.png" crc="168963535" ref="downtown-design-masbox"/>
+    <file name="u1466-a.png" crc="4176811827" ref="downtown-design-masbox"/>
+    <file name="masbox logo.jpg" crc="204489171" ref="downtown-design-masbox"/>
+    <file name="web22.jpg" crc="275292571" ref="downtown-design-masbox"/>
+    <file name="identidad-box.jpg" crc="3892610174" ref="downtown-design-masbox"/>
+    <file name="identidad3.jpg" crc="279785038" ref="downtown-design-masbox"/>
+    <file name="facebook.jpg" crc="3808469208" ref="downtown-design-masbox"/>
+    <file name="u1537.png" crc="327470058" ref="downtown-design-masbox"/>
+    <file name="u1537-r.png" crc="3804845445" ref="downtown-design-masbox"/>
+    <file name="web12.jpg" crc="3989649454" ref="downtown-design-masbox"/>
+    <file name="u1605.png" crc="3993502955" ref="downtown-design-lettering"/>
+    <file name="u1605-r.png" crc="532980753" ref="downtown-design-lettering"/>
+    <file name="u1605-a.png" crc="445085558" ref="downtown-design-lettering"/>
+    <file name="u1609.png" crc="67735335" ref="downtown-design-lettering"/>
+    <file name="u1609-r.png" crc="4198849613" ref="downtown-design-lettering"/>
+    <file name="u1609-a.png" crc="4252270298" ref="downtown-design-lettering"/>
+    <file name="u1603.png" crc="376436269" ref="downtown-design-lettering"/>
+    <file name="u1603-r.png" crc="4123600752" ref="downtown-design-lettering"/>
+    <file name="u1603-a.png" crc="409992440" ref="downtown-design-lettering"/>
+    <file name="u1607.png" crc="100398026" ref="downtown-design-lettering"/>
+    <file name="u1607-r.png" crc="168963535" ref="downtown-design-lettering"/>
+    <file name="u1607-a.png" crc="4176811827" ref="downtown-design-lettering"/>
+    <file name="sticktoyourguns2.jpg" crc="71658213" ref="downtown-design-lettering"/>
+    <file name="untitled-2-2.jpg" crc="3808146572" ref="downtown-design-lettering"/>
+    <file name="sticktoyourguns.jpg" crc="3917393724" ref="downtown-design-lettering"/>
+    <file name="suerte.jpg" crc="3812353598" ref="downtown-design-lettering"/>
+    <file name="dsc_0782.jpg" crc="3820478802" ref="downtown-design-lettering"/>
+    <file name="lettering37-u1682-fr.jpg" crc="167582960" ref="downtown-design-lettering"/>
+    <file name="twycg.jpg" crc="4164600174" ref="downtown-design-lettering"/>
+    <file name="lettering35.jpg" crc="296761474" ref="downtown-design-lettering"/>
+    <file name="dsc_0435-2.jpg" crc="3940171614" ref="downtown-design-lettering"/>
+    <file name="dreamer7.jpg" crc="385283659" ref="downtown-design-lettering"/>
+    <file name="gravedad copy.jpg" crc="245035593" ref="downtown-design-lettering"/>
+    <file name="sftb1.jpg" crc="3907707236" ref="downtown-design-lettering"/>
+    <file name="black-white.jpg" crc="4010025516" ref="downtown-design-lettering"/>
+    <file name="13.jpg" crc="261849921" ref="downtown-design-lettering"/>
+    <file name="apfap.jpg" crc="319595209" ref="downtown-design-lettering"/>
+    <file name="2.jpg" crc="4286623949" ref="downtown-design-lettering"/>
+    <file name="morning coffee.jpg" crc="183455861" ref="downtown-design-lettering"/>
+    <file name="goodmorning-u1708-fr.jpg" crc="427126751" ref="downtown-design-lettering"/>
+    <file name="heyguapa2.jpg" crc="4224486117" ref="downtown-design-lettering"/>
+    <file name="ny1 copy.jpg" crc="379866430" ref="downtown-design-lettering"/>
+    <file name="haveaniceday.png" crc="99091914" ref="downtown-design-lettering"/>
+    <file name="saturday2.jpg" crc="4058726256" ref="downtown-design-lettering"/>
+    <file name="dothewritething.png" crc="4244893947" ref="downtown-design-lettering"/>
+    <file name="coldbrew3.jpg" crc="4102350490" ref="downtown-design-lettering"/>
+    <file name="loveyoulikesafool1.jpg" crc="3853389861" ref="downtown-design-lettering"/>
+    <file name="faith.jpg" crc="4000795506" ref="downtown-design-lettering"/>
+    <file name="itati8.jpg" crc="362801571" ref="downtown-design-lettering"/>
+    <file name="cafe.jpg" crc="3904207709" ref="downtown-design-lettering"/>
+    <file name="gabriel jiuarez-u1847-fr.jpg" crc="3983438938" ref="downtown-design-lettering"/>
+    <file name="timetolethergo.jpg" crc="4035744041" ref="downtown-design-lettering"/>
+    <file name="timealways.jpg" crc="397101693" ref="downtown-design-lettering"/>
+    <file name="colddays.jpg" crc="125691456" ref="downtown-design-lettering"/>
+    <file name="u2186.png" crc="327470058" ref="downtown-design-lettering"/>
+    <file name="u2186-r.png" crc="3804845445" ref="downtown-design-lettering"/>
+    <file name="u1918.png" crc="3993502955" ref="downtown-design-foto"/>
+    <file name="u1918-r.png" crc="532980753" ref="downtown-design-foto"/>
+    <file name="u1918-a.png" crc="445085558" ref="downtown-design-foto"/>
+    <file name="u1922.png" crc="67735335" ref="downtown-design-foto"/>
+    <file name="u1922-r.png" crc="4198849613" ref="downtown-design-foto"/>
+    <file name="u1922-a.png" crc="4252270298" ref="downtown-design-foto"/>
+    <file name="u1916.png" crc="376436269" ref="downtown-design-foto"/>
+    <file name="u1916-r.png" crc="4123600752" ref="downtown-design-foto"/>
+    <file name="u1916-a.png" crc="409992440" ref="downtown-design-foto"/>
+    <file name="u1920.png" crc="100398026" ref="downtown-design-foto"/>
+    <file name="u1920-r.png" crc="168963535" ref="downtown-design-foto"/>
+    <file name="u1920-a.png" crc="4176811827" ref="downtown-design-foto"/>
+    <file name="10.jpg" crc="4001287648" ref="downtown-design-foto"/>
+    <file name="dsc_0353.jpg" crc="525037231" ref="downtown-design-foto"/>
+    <file name="22.jpg" crc="59023546" ref="downtown-design-foto"/>
+    <file name="pau.jpg" crc="4088303359" ref="downtown-design-foto"/>
+    <file name="erika4.jpg" crc="6818269" ref="downtown-design-foto"/>
+    <file name="712.jpg" crc="458742240" ref="downtown-design-foto"/>
+    <file name="6.jpg" crc="154475741" ref="downtown-design-foto"/>
+    <file name="12.jpg" crc="486236097" ref="downtown-design-foto"/>
+    <file name="web6.jpg" crc="4051500033" ref="downtown-design-foto"/>
+    <file name="web23.jpg" crc="3890421186" ref="downtown-design-foto"/>
+    <file name="web4.jpg" crc="3929621444" ref="downtown-design-foto"/>
+    <file name="web13.jpg" crc="4144724325" ref="downtown-design-foto"/>
+    <file name="web5.jpg" crc="529897798" ref="downtown-design-foto"/>
+    <file name="dsc_0404.jpg" crc="327803010" ref="downtown-design-foto"/>
+    <file name="u2184.png" crc="327470058" ref="downtown-design-foto"/>
+    <file name="u2184-r.png" crc="3804845445" ref="downtown-design-foto"/>
+  </folder>
+  <file name="downtown-design-co.html" crc="3876566305" seo="true" mt="1495725441266" redirect="true"/>
+  <file name="index.html" crc="4081626889" seo="true" mt="1494383980283" redirect="true"/>
+  <file name="downtown-design-gs.html" crc="285251403" seo="true" mt="1495557391531" redirect="true"/>
+  <file name="downtown-design-gabriel-juarez.html" crc="3931790204" seo="true" mt="1495485054195" redirect="true"/>
+  <file name="downtown-design-croissant.html" crc="3897463881" seo="true" mt="1495725441266" redirect="true"/>
+  <file name="downtown-design-otros-logos.html" crc="35293897" seo="true" mt="1495724754368" redirect="true"/>
+  <file name="downtown-design-wilking-brau.html" crc="3901288379" seo="true" mt="1495557509357" redirect="true"/>
+  <file name="downtown-design-brooklyn.html" crc="274208358" seo="true" mt="1495557472069" redirect="true"/>
+  <file name="downtown-design-masbox.html" crc="3773211303" seo="true" mt="1495557433457" redirect="true"/>
+  <file name="downtown-design-lettering.html" crc="3889598206" seo="true" mt="1495724767462" redirect="true"/>
+  <file name="downtown-design-foto.html" crc="4125075669" seo="true" mt="1495557342914" redirect="true"/>
+</manifest>

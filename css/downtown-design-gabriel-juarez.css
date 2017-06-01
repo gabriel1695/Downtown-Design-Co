@@ -1,0 +1,408 @@
+.version.downtown_design_gabriel_juarez /* version checker */
+{
+	color: #0000ED;
+	background-color: #AB1A06;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1034px;
+	min-height: 2501px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 119px 47px 60px;
+}
+
+#u1390
+{
+	z-index: 15;
+	height: 92px;
+	background-color: #FFFFFF;
+	position: fixed;
+	top: 1px;
+}
+
+#u1390-bw
+{
+	z-index: 15;
+}
+
+#u1399
+{
+	z-index: 36;
+	overflow: hidden;
+	position: fixed;
+	top: 20px;
+	left: 50%;
+	margin-left: -582px;
+}
+
+#buttonu1393
+{
+	z-index: 21;
+	width: 142px;
+	border-color: #787878;
+	background-color: transparent;
+	border-radius: 10px;
+	padding-bottom: 10px;
+	position: fixed;
+	top: 29px;
+	left: 50%;
+	margin-left: -50px;
+}
+
+#buttonu1393:hover
+{
+	width: 142px;
+	min-height: 0px;
+	margin: 0px 0px 0px -50px;
+}
+
+#buttonu1393.ButtonSelected
+{
+	width: 142px;
+	min-height: 0px;
+	margin: 0px 0px 0px -50px;
+}
+
+#u1394
+{
+	z-index: 23;
+	height: 18px;
+	width: 119px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 11px;
+	background: url("../images/u1394.png") no-repeat 0px 0px;
+}
+
+#buttonu1393:hover #u1394
+{
+	background: url("../images/u1394-r.png") no-repeat 0px 0px;
+}
+
+#buttonu1393.ButtonSelected #u1394
+{
+	background: url("../images/u1394-a.png") no-repeat 0px 0px;
+}
+
+#buttonu1397
+{
+	z-index: 31;
+	width: 142px;
+	border-color: #787878;
+	background-color: transparent;
+	border-radius: 10px;
+	padding-bottom: 10px;
+	position: fixed;
+	top: 29px;
+	left: 50%;
+	margin-left: 110px;
+}
+
+#buttonu1397:hover
+{
+	width: 142px;
+	min-height: 0px;
+	margin: 0px 0px 0px 110px;
+}
+
+#buttonu1397.ButtonSelected
+{
+	width: 142px;
+	min-height: 0px;
+	margin: 0px 0px 0px 110px;
+}
+
+#u1398
+{
+	z-index: 33;
+	height: 18px;
+	width: 119px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 11px;
+	background: url("../images/u1398.png") no-repeat 0px 0px;
+}
+
+#buttonu1397:hover #u1398
+{
+	background: url("../images/u1398-r.png") no-repeat 0px 0px;
+}
+
+#buttonu1397.ButtonSelected #u1398
+{
+	background: url("../images/u1398-a.png") no-repeat 0px 0px;
+}
+
+#buttonu1391
+{
+	z-index: 16;
+	width: 142px;
+	border-color: #787878;
+	background-color: transparent;
+	border-radius: 10px;
+	padding-bottom: 8px;
+	position: fixed;
+	top: 29px;
+	left: 50%;
+	margin-left: 271px;
+}
+
+#buttonu1391:hover
+{
+	border-style: none;
+	border-color: transparent;
+	width: 142px;
+	min-height: 0px;
+	margin: 0px 0px 0px 271px;
+}
+
+#buttonu1391.ButtonSelected
+{
+	border-color: #787878;
+	width: 142px;
+	min-height: 0px;
+	margin: 0px 0px 0px 271px;
+}
+
+#u1392
+{
+	z-index: 18;
+	height: 18px;
+	width: 125px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 11px;
+	background: url("../images/u1392.png") no-repeat 0px 0px;
+}
+
+#buttonu1391:hover #u1392
+{
+	background: url("../images/u1392-r.png") no-repeat 0px 0px;
+}
+
+#buttonu1391.ButtonSelected #u1392
+{
+	background: url("../images/u1392-a.png") no-repeat 0px 0px;
+}
+
+#buttonu1395
+{
+	z-index: 26;
+	width: 142px;
+	border-color: #787878;
+	background-color: transparent;
+	border-radius: 10px;
+	padding-bottom: 10px;
+	position: fixed;
+	top: 29px;
+	left: 50%;
+	margin-left: 431px;
+}
+
+#buttonu1395:hover
+{
+	width: 142px;
+	min-height: 0px;
+	margin: 0px 0px 0px 431px;
+}
+
+#buttonu1395.ButtonSelected
+{
+	width: 142px;
+	min-height: 0px;
+	margin: 0px 0px 0px 431px;
+}
+
+#u1396
+{
+	z-index: 28;
+	height: 18px;
+	width: 119px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 10px;
+	background: url("../images/u1396.png") no-repeat 0px 0px;
+}
+
+#buttonu1395:hover #u1396
+{
+	background: url("../images/u1396-r.png") no-repeat 0px 0px;
+}
+
+#buttonu1395.ButtonSelected #u1396
+{
+	background: url("../images/u1396-a.png") no-repeat 0px 0px;
+}
+
+#pu1433
+{
+	width: 0.01px;
+	margin-left: 159px;
+}
+
+#u1433
+{
+	z-index: 5;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 68px;
+}
+
+#u1438
+{
+	z-index: 6;
+	position: relative;
+	margin-right: -10000px;
+	left: 559px;
+}
+
+#pu1443
+{
+	width: 0.01px;
+	margin-left: 159px;
+	margin-top: 49px;
+}
+
+#u1443
+{
+	z-index: 7;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 22px;
+}
+
+#u1453
+{
+	z-index: 8;
+	position: relative;
+	margin-right: -10000px;
+	left: 563px;
+}
+
+#u1402
+{
+	z-index: 2;
+	width: 1034px;
+	height: 678px;
+	margin-top: 41px;
+	position: relative;
+	background: transparent url("../images/01-stationery-premium-mockup-inter-size.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u1409
+{
+	z-index: 3;
+	width: 1034px;
+	height: 741px;
+	position: relative;
+	background: transparent url("../images/book.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u1416
+{
+	z-index: 4;
+	width: 1034px;
+	height: 665px;
+	position: relative;
+	background: transparent url("../images/cards2.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#pbuttonu1458
+{
+	width: 0.01px;
+	margin-left: 440px;
+	margin-top: 39px;
+}
+
+#buttonu1458
+{
+	z-index: 10;
+	width: 151px;
+	height: 46px;
+	border-color: #787878;
+	background-color: #C73B54;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	margin-left: 1px;
+}
+
+#pbuttonu1458:hover #buttonu1458
+{
+	width: 148px;
+	height: 43px;
+	border-width: 3px;
+	border-style: solid;
+	border-color: #C73B54;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 0px;
+	left: 0px;
+	margin-left: 0px;
+	min-height: 0px;
+}
+
+#u1459
+{
+	z-index: 12;
+	height: 23px;
+	width: 119px;
+	vertical-align: top;
+	background: url("../images/u1459.png") no-repeat 0px 0px;
+}
+
+#pbuttonu1458:hover #u1459
+{
+	position: relative;
+	width: 119px;
+	margin-right: -10000px;
+	margin-top: 14px;
+	left: 15px;
+	background: url("../images/u1459-r.png") no-repeat 0px 0px;
+}
+
+#pbuttonu1458 #u1459
+{
+	position: relative;
+	width: 119px;
+	margin-right: -10000px;
+	margin-top: 16px;
+	left: 17px;
+}
+
+body
+{
+	position: relative;
+	min-width: 1128px;
+	padding-bottom: 9px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

@@ -1,0 +1,46 @@
+#u866-4
+{
+	display: block;
+	vertical-align: top;
+	position: relative;
+}
+
+#buttonu868
+{
+	border-color: #787878;
+	background-color: #C73B54;
+	position: relative;
+}
+
+#pbuttonu868:hover #buttonu868
+{
+	border-width: 2px;
+	border-style: solid;
+	border-color: #C73B54;
+	background-color: transparent;
+	border-radius: 7px;
+	position: relative;
+}
+
+#u869
+{
+	vertical-align: top;
+	background: url("../images/u869.png") no-repeat 0px 0px;
+}
+
+#pbuttonu868:hover #u869
+{
+	position: relative;
+	background: url("../images/u869-r.png") no-repeat 0px 0px;
+}
+
+#pbuttonu868:active #u869
+{
+	background: url("../images/u869-m.png") no-repeat 0px 0px;
+}
+
+#u861,#pbuttonu868 #u869
+{
+	position: relative;
+}
+

@@ -1,0 +1,514 @@
+.version.downtown_design_foto /* version checker */
+{
+	color: #0000EA;
+	background-color: #1B7E88;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1128px;
+	min-height: 4911px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	padding-top: 93px;
+	padding-bottom: 91px;
+	width: 0.01px;
+}
+
+#ubutton1917, #ubotton1921, #ubutton1915, #ubutton1919 {
+	transition: 0.7s;
+}
+
+#ubutton1917:hover, #ubotton1921:hover, #ubutton1915:hover, #ubutton1919:hover {
+	border-top: 2px solid #c73b54;
+	text-decoration: line-through;
+	letter-spacing: 2px;
+	border-radius: 0px;
+}
+
+#u1914
+{
+	z-index: 16;
+	height: 92px;
+	background-color: #FFFFFF;
+	position: fixed;
+	top: 0px;
+}
+
+#u1914-bw
+{
+	z-index: 16;
+}
+
+#u1923
+{
+	z-index: 37;
+	overflow: hidden;
+	position: fixed;
+	top: 19px;
+	left: 50%;
+	margin-left: -635px;
+}
+
+#buttonu1917
+{
+	z-index: 22;
+	width: 142px;
+	border-color: #787878;
+	background-color: transparent;
+	border-radius: 10px;
+	padding-bottom: 10px;
+	position: fixed;
+	top: 28px;
+	left: 50%;
+	margin-left: -104px;
+}
+
+#buttonu1917:hover
+{
+	width: 142px;
+	min-height: 0px;
+	margin: 0px 0px 0px -104px;
+}
+
+#buttonu1917.ButtonSelected
+{
+	width: 142px;
+	min-height: 0px;
+	margin: 0px 0px 0px -104px;
+}
+
+#u1918
+{
+	z-index: 24;
+	height: 18px;
+	width: 119px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 11px;
+	background: url("../images/u1918.png") no-repeat 0px 0px;
+}
+
+#buttonu1917:hover #u1918
+{
+	background: url("../images/u1918-r.png") no-repeat 0px 0px;
+}
+
+#buttonu1917.ButtonSelected #u1918
+{
+	background: url("../images/u1918-a.png") no-repeat 0px 0px;
+}
+
+#buttonu1921
+{
+	z-index: 32;
+	width: 142px;
+	border-color: #787878;
+	background-color: transparent;
+	border-radius: 10px;
+	padding-bottom: 10px;
+	position: fixed;
+	top: 28px;
+	left: 50%;
+	margin-left: 57px;
+}
+
+#buttonu1921:hover
+{
+	width: 142px;
+	min-height: 0px;
+	margin: 0px 0px 0px 57px;
+}
+
+#buttonu1921.ButtonSelected
+{
+	width: 142px;
+	min-height: 0px;
+	margin: 0px 0px 0px 57px;
+}
+
+#u1922
+{
+	z-index: 34;
+	height: 18px;
+	width: 119px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 11px;
+	background: url("../images/u1922.png") no-repeat 0px 0px;
+}
+
+#buttonu1921:hover #u1922
+{
+	background: url("../images/u1922-r.png") no-repeat 0px 0px;
+}
+
+#buttonu1921.ButtonSelected #u1922
+{
+	background: url("../images/u1922-a.png") no-repeat 0px 0px;
+}
+
+#buttonu1915
+{
+	z-index: 17;
+	width: 142px;
+	border-color: #787878;
+	background-color: transparent;
+	border-radius: 10px;
+	padding-bottom: 8px;
+	position: fixed;
+	top: 28px;
+	left: 50%;
+	margin-left: 217px;
+}
+
+#buttonu1915:hover
+{
+	border-style: none;
+	border-color: transparent;
+	width: 142px;
+	min-height: 0px;
+	margin: 0px 0px 0px 217px;
+}
+
+#buttonu1915.ButtonSelected
+{
+	border-color: #787878;
+	width: 142px;
+	min-height: 0px;
+	margin: 0px 0px 0px 217px;
+}
+
+#u1916
+{
+	z-index: 19;
+	height: 18px;
+	width: 125px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 11px;
+	background: url("../images/u1916.png") no-repeat 0px 0px;
+}
+
+#buttonu1915:hover #u1916
+{
+	background: url("../images/u1916-r.png") no-repeat 0px 0px;
+}
+
+#buttonu1915.ButtonSelected #u1916
+{
+	background: url("../images/u1916-a.png") no-repeat 0px 0px;
+}
+
+#buttonu1919
+{
+	z-index: 27;
+	width: 142px;
+	border-color: #787878;
+	background-color: transparent;
+	border-radius: 10px;
+	padding-bottom: 10px;
+	position: fixed;
+	top: 28px;
+	left: 50%;
+	margin-left: 377px;
+}
+
+#buttonu1919:hover
+{
+	width: 142px;
+	min-height: 0px;
+	margin: 0px 0px 0px 377px;
+}
+
+#buttonu1919.ButtonSelected
+{
+	width: 142px;
+	min-height: 0px;
+	margin: 0px 0px 0px 377px;
+}
+
+#u1920
+{
+	z-index: 29;
+	height: 18px;
+	width: 119px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 10px;
+	background: url("../images/u1920.png") no-repeat 0px 0px;
+}
+
+#buttonu1919:hover #u1920
+{
+	background: url("../images/u1920-r.png") no-repeat 0px 0px;
+}
+
+#buttonu1919.ButtonSelected #u1920
+{
+	background: url("../images/u1920-a.png") no-repeat 0px 0px;
+}
+
+#u1927
+{
+	z-index: 2;
+	width: 664px;
+	height: 664px;
+	position: relative;
+	margin-right: -10000px;
+	background: #7F7F7F url("../images/10.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u1928
+{
+	z-index: 9;
+	width: 664px;
+	height: 664px;
+	position: relative;
+	margin-right: -10000px;
+	left: 664px;
+	background: #000000 url("../images/dsc_0353.jpg") no-repeat left top;
+	background-size: cover;
+}
+
+#u1929
+{
+	z-index: 3;
+	width: 664px;
+	height: 664px;
+	position: relative;
+	margin-right: -10000px;
+	background: #7F7F7F url("../images/22.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u1930
+{
+	z-index: 10;
+	width: 664px;
+	height: 664px;
+	position: relative;
+	margin-right: -10000px;
+	left: 664px;
+	background: #000000 url("../images/pau.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u1931
+{
+	z-index: 4;
+	width: 664px;
+	height: 664px;
+	position: relative;
+	margin-right: -10000px;
+	background: #7F7F7F url("../images/erika4.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u1932
+{
+	z-index: 11;
+	width: 664px;
+	height: 664px;
+	position: relative;
+	margin-right: -10000px;
+	left: 664px;
+	background: #000000 url("../images/712.jpg") no-repeat center top;
+	background-size: cover;
+}
+
+#u1933
+{
+	z-index: 5;
+	width: 664px;
+	height: 664px;
+	position: relative;
+	margin-right: -10000px;
+	background: #7F7F7F url("../images/6.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u1934
+{
+	z-index: 12;
+	width: 664px;
+	height: 664px;
+	position: relative;
+	margin-right: -10000px;
+	left: 664px;
+	background: #000000 url("../images/12.jpg") no-repeat center top;
+	background-size: cover;
+}
+
+#u1935
+{
+	z-index: 6;
+	width: 664px;
+	height: 664px;
+	position: relative;
+	margin-right: -10000px;
+	background: #7F7F7F url("../images/web6.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u1936
+{
+	z-index: 13;
+	width: 664px;
+	height: 664px;
+	position: relative;
+	margin-right: -10000px;
+	left: 664px;
+	background: #000000 url("../images/web23.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u1937
+{
+	z-index: 7;
+	width: 664px;
+	height: 664px;
+	position: relative;
+	margin-right: -10000px;
+	background: #7F7F7F url("../images/web4.jpg") no-repeat center top;
+	background-size: cover;
+}
+
+#u1938
+{
+	z-index: 14;
+	width: 664px;
+	height: 664px;
+	position: relative;
+	margin-right: -10000px;
+	left: 664px;
+	background: #000000 url("../images/web13.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#pu1927,#pu1929,#pu1931,#pu1933,#pu1935,#pu1937,#pu1941
+{
+	width: 0.01px;
+	margin-left: -100px;
+}
+
+#u1941
+{
+	z-index: 8;
+	width: 664px;
+	height: 664px;
+	position: relative;
+	margin-right: -10000px;
+	background: #7F7F7F url("../images/web5.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u1942
+{
+	z-index: 15;
+	width: 664px;
+	height: 664px;
+	position: relative;
+	margin-right: -10000px;
+	left: 664px;
+	background: #000000 url("../images/dsc_0404.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#pbuttonu2183
+{
+	width: 0.01px;
+	margin-left: 488px;
+	margin-top: 30px;
+}
+
+#buttonu2183
+{
+	z-index: 39;
+	width: 151px;
+	height: 46px;
+	border-color: #787878;
+	background-color: #C73B54;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	margin-left: 1px;
+}
+
+#pbuttonu2183:hover #buttonu2183
+{
+	width: 148px;
+	height: 43px;
+	border-width: 3px;
+	border-style: solid;
+	border-color: #C73B54;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 0px;
+	left: 0px;
+	margin-left: 0px;
+	min-height: 0px;
+}
+
+#u2184
+{
+	z-index: 41;
+	height: 23px;
+	width: 119px;
+	vertical-align: top;
+	background: url("../images/u2184.png") no-repeat 0px 0px;
+}
+
+#pbuttonu2183:hover #u2184
+{
+	position: relative;
+	width: 119px;
+	margin-right: -10000px;
+	margin-top: 14px;
+	left: 15px;
+	background: url("../images/u2184-r.png") no-repeat 0px 0px;
+}
+
+#pbuttonu2183 #u2184
+{
+	position: relative;
+	width: 119px;
+	margin-right: -10000px;
+	margin-top: 16px;
+	left: 17px;
+}
+
+body
+{
+	position: relative;
+	min-width: 1128px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
